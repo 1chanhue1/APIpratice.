@@ -16,7 +16,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="요청하기" />
+        android:text="API요청하기" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
