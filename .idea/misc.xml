@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Owner/Desktop/DoItAndroidRev8-master/DoItAndroidRev8-master/part2/movie/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Owner/Desktop/DoItAndroidRev8-master/DoItAndroidRev8-master/part2/movie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2" />
+        <entry key="..\:/Users/Owner/Desktop/DoItAndroidRev8-master/DoItAndroidRev8-master/part2/movie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2" />
+        <entry key="..\:/Users/Owner/Desktop/DoItAndroidRev8-master/DoItAndroidRev8-master/part2/movie/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Owner/Desktop/DoItAndroidRev8-master/DoItAndroidRev8-master/part2/movie/app/src/main/res/layout/movie_item.xml" value="0.1" />
       </map>
     </option>
   </component>
